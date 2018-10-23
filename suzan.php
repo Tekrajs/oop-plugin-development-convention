@@ -7,19 +7,19 @@
  * the plugin, registers the activation and deactivation functions, and defines
  * a function that starts the plugin.
  *
- * @link              http://.tutsplus.com/tutorials/using-namespaces-and-autoloading-in-wordpress-plugins-part-1
+ * @link              https://github.com/Tekrajs
  * @since             0.1.0
- * @package           tutsplus_namespace_demo
+ * @package           demo
  *
  * @wordpress-plugin
- * Plugin Name:       Tuts+ Namespace Demo
- * Plugin URI:        http://.tutsplus.com/tutorials/using-namespaces-and-autoloading-in-wordpress-plugins-part-1
+ * Plugin Name:       Tuts + Namespace Demo
+ * Plugin URI:        https://github.com/Tekrajs/oop-plugin-development-convention
  * Description:       Learn how to use Namespaces and Autoloading in WordPress.
  * Version:           0.1.0
  * Author:            Tom McFarlin
- * Author URI:        https://tommcfarlin.com/
+ * Author URI:        https://github.com/Tekrajs
  * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * License URI:       https://github.com/Tekrajs
  */
  
 // If this file is accessed directory, then abort.
